@@ -1,5 +1,5 @@
 package com.example.lab08;
-
+//my comment for CI setup
 public class City {
     private String city;
     private String province;
